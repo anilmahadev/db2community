@@ -16,14 +16,7 @@ I have used /database for the container data directory path.
 Connect using your favorite DBAdmin tool to connect to the container:
 Here are the key elements:
 
-**Hostname: localhost /0.0.0.0
-
-User: db2inst1
-
-Password: db2rocks
-
-Port: 50000
-
+**Hostname: localhost /0.0.0.0 User: db2inst1 Password: db2rocks Port: 50000
 **
 
 Once connected.
