@@ -1,5 +1,4 @@
-# db2community
-The Free DB2 Community Container Image
+# db2community - The Free DB2 Community Container Image
 
 This is the free DB2 Community Image, I rebuilt from the IBM Container Registry making it available on Docker Hub for many folks to download and use..
 
